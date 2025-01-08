@@ -1,7 +1,7 @@
 <h1>Hi, I'm Niazia!  <a href="www.linkedin.com/in/NiaziaAllen-CyberXVanity URL name/">Cybersecurity Professional</a>
 <h2>👨‍💻 CYBERSECURITY Projects:</h2>
 - <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 
 <h2>Certifications:<h2></h2>
 
