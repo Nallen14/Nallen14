@@ -1,6 +1,6 @@
 <h1>Hi, I'm Niazia!  <a href="www.linkedin.com/in/NiaziaAllen-CyberXVanity URL name/">Cybersecurity Professional</a>
 <h2>👨‍💻 CYBERSECURITY Projects:</h2>
-- **[Vulnerability Management Demo w/ Tenable](https://github.com/Nallen14/Win10-Vulnerability-Management)**
+- 
 - **Active Directory Home Lab (AlgoExpert)** - [Practicing DS & Algos in Python](#)
 
 
